@@ -1,11 +1,21 @@
-# GIS
-Beginner GIS commands on gdal, Rstudio or whatever pops up.
-This repository is made for users that are beginners on programming and want to start using commands and scripts instead of interfaces. Any contribution is welcome.
+# Introduction to Coding for GIS
 
-######################################### BASIC CMD NAVIGATION ###################################################
-First of all, since our commands will be used directly on cmd (prompt), let's clear some basic stuff:
+## Description
 
-After opening the cmd, you can navigate through your folders using the "cd" (Change Directory) command. eg: "cd C:\User\Documents" will take you to your Documents folder. 
+If you fooled with GIS applications such as QGIS or ArcGIS long enough, you have probably faced unsolvable problems that either took long enough or resulted in a crash. This repository is made for users that giving their first steps on programming and want to start using commands and scripts instead of interfaces. 
+
+## BASIC NAVIGATION
+
+First of all, you should know how to get your way around folders using commands directly on cmd (for windows users) or bash (for linux users). Let's begin:
+
+After opening the cmd, you will pretty much be facing a black box with some trademark information and a line with a flashing underscore that says:
+
+"(Hard Drive letter):\Users\(username)_"
+
+This basically tells ou where the action is going to take place. It means you are currently inside that folder. You can navigate through other ones using the "cd" (Change Directory) command. eg: "cd C:\User\Documents" will take you to your Documents folder. 
+
+#### Basic cmd commands:
+
 
 - "cd\" will take you to the top of the tree (on our example, C:\)
 - "cd.." will take you one folder above (on our example, C:\User\)
