@@ -10,7 +10,7 @@ First of all, you should know how to get your way around folders using commands 
 
 After opening the cmd, you will pretty much be facing a black box with some trademark information and a line with a flashing underscore that says:
 
-"(Hard Drive letter):\Users\(username)_"
+####"(Hard Drive letter):\Users\(username)_"
 
 This basically tells ou where the action is going to take place. It means you are currently inside that folder. You can navigate through other ones using the "cd" (Change Directory) command. eg: "cd C:\User\Documents" will take you to your Documents folder. 
 
