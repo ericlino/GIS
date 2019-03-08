@@ -12,4 +12,8 @@ Having that said, the objective of this manuscript can be divided in two: **Firs
 
 ## Where can you contribute:
 
-By no means I'm an expert at coding not Github. I still have a very long way to go, so any help (from code lines to repository formatting) is appreciated. But if you **really** want to help, you can help achieve the third objective intended with this guide, which is to compare different tools with a common goal. Ex: Is it faster to edit a shape's table of contents on R or Python? When to use one and one to use another?
+By no means I'm an expert at coding nor Github. I still have a very long way to go, so any help (from code lines to repository formatting) is appreciated. But if you **really** want to help, you can help achieve the secret third objective intended with this guide, which is to compare different tools with a common goal. Ex: Let's say I have on the guide one way to rasterize using R and another using Python. Which function is preferred? When to use one and one to use another, what are the limitations?
+
+## Summary:
+
+[Linux and Windows terminal command basics](GIS/nav101.md)
