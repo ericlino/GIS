@@ -16,4 +16,4 @@ By no means I'm an expert at coding nor Github. I still have a very long way to 
 
 ## Summary:
 
-[Linux and Windows terminal command basics](GIS/nav101.md)
+[Linux and Windows terminal command basics](./nav101.md)
